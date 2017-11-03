@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-decoration:underline;
+}
+
+p {
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+body{
+    padding: 100px;
+}
+
+div {
+    background: gray;
+    padding: 30px;
+    width: 600px;
+}
+
+.wrapper {
+    width: auto;
+    background: transparent;
+}
+
+.col {
+    width:480px;
+    text-align: left;
+    background: lightgray;
+    vertical-align: top;
+    padding:20px;
+}
+input, select {
+    height: 40px;
+    width: 300px;
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px 5px;
+}
+textarea{
+    height: 100px;
+    width: 500px;
+    font-size: 30px;
+}
+#submit{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 400px;
+    background-color: chartreuse;
+}
+
+label {
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px 0px;
+}
+
+/* button {
+    font-size: 20px;
+} */
